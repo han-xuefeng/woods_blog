@@ -1,13 +1,13 @@
 <h1 align="center"> CoreBlog </h1>
 
-<p align="center">一款简洁优雅的博客系统</p>
-
-![preview](https://raw.githubusercontent.com/inbjo/CoreBlog/master/public/images/preview.png)
+<p align="center">韩雪锋的博客</p>
 
 ## 项目概述
 
-* 产品名称：酷博
-* 项目代码：CoreBlog
+* 产品名称：韩雪锋博客
+* 项目代码：woods_blog
+
+* 源码来源
 * 官方地址：https://www.inbjo.com/
 * 文档地址：https://www.inbjo.com/docs
 * QQ群:[862180297](https://jq.qq.com/?_wv=1027&k=5l6VXeo)
@@ -54,18 +54,5 @@
 * BCMath PHP 拓展
 * Redis PHP 扩展
 
-### 安装与配置
-Docker部署[点此前往](https://github.com/inbjo/CoreBlog-Docker)
-
-#### 下载源码包
-```
-composer create-project flex/blog 
-```
-
-#### 访问安装引导程序
-访问xxx.com/install运行安装引导程序，按照提示进行安装即可。
-
-更多请查看[在线文档](https://www.inbjo.com/docs)
-
-## License
-MIT
+### 改
+**使用酷博的源码，打造自己的博客**
